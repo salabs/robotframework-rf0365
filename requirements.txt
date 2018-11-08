@@ -1,0 +1,2 @@
+pyo365
+robotframework-salabsutils
